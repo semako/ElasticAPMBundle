@@ -1,5 +1,5 @@
 {
-    "name": "divlooper/elastic-apm-bundle",
+    "name": "semako/elastic-apm-bundle",
     "description": "Elastic APM Client for Symfony",
     "type": "symfony-bundle",
     "require": {
